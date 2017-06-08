@@ -9,11 +9,8 @@
 		"src",
 		"bsconfig.json"
 	],
-	"devDependencies": {
-		"bs-platform": "^1.7.0",
-		"react": "16.0.0-alpha.6"
-	},
 	"peerDependencies": {
+		"bs-platform": "^1.7.0",
 		"reason-react": "git@github.com:SanderSpies/react-on-reason.git",
 		"react-native": "0.44.0"
 	}
